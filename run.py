@@ -1,4 +1,4 @@
-import OS
+import os
 
 if __name__ == '__main__':
     try:
